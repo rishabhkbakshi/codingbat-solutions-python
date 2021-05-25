@@ -19,3 +19,4 @@ Here you can find the solution of all codingbat problem (python) => https://codi
       - then write the method name in the ending of the file to call like this
   
           xyz(1,2)
+      - then click on run button
