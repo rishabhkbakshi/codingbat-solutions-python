@@ -4,6 +4,7 @@ My solution of coding-bat problems (Python)
 Here you can find the solution of all codingbat problem (python) => https://codingbat.com/
 
 1. I have written my own logic
+2. Some code is bit lengthy because I believe to avoid the inbuild functions of the python, Because this will make your programming logic strong
 
 # steps to run the program 
 1. Download and setup the eclipse
